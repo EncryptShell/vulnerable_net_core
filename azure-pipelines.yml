@@ -42,3 +42,4 @@ stages:
         workingDirectory: '$(Build.SourcesDirectory)'
       env:
         SHIFTLEFT_ACCESS_TOKEN: $(SHIFTLEFT_ACCESS_TOKEN)
+      continueOnError: true
