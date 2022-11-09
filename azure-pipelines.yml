@@ -1,5 +1,5 @@
 variables:
-- group: shiftleft-token
+- group: Shiftleft-Azure-CI-token
 
 trigger:
 - master
